@@ -46,13 +46,21 @@ O Projeto ECO FARM tem como objetivo oferecer uma experiência de aprendizado di
 
 ## Cronograma
 
-| Data       | Atividade                                             |
-|------------|-------------------------------------------------------|
-| 12/03/2024 | Git: Projeto com Escopo e Cronograma                  | 
-| 15/03/2024 | Inicio Do Desenvolvimento                             |
-| 20/03/2024 | Inicio dos testes dos Assets                          |
-| 01/04/2024 | Planejamento detalhado do projeto e definição de metas|
-|||
+| Data       | Atividade                                                                              |
+|------------|----------------------------------------------------------------------------------------|
+| 12/03/2024 | Git: Projeto com Escopo e Cronograma                                                   |  
+| 15/03/2024 | Inicio Do Desenvolvimento                                                              |
+| 20/03/2024 | Inicio dos testes dos Assets                                                           |
+| 01/04/2024 | Planejamento detalhado do projeto e definição de metas                                 |
+| 15/04/2024 | Início do desenvolvimento dos códigos base do jogo                                     |
+| 01/05/2024 | Seleção e integração dos assets iniciais                                               |
+| 15/05/2024 | Desenvolvimento dos sistemas de jogabilidade (plantio, análise de solo, etc.)          |
+| 01/06/2024 | Criação dos primeiros mapas e ambientes do jogo                                        |
+| 10/06/2024 | Testes iniciais de mecânicas e correção de bugs                                        |
+| 15/06/2024 |  Implementação de recursos educativos (biblioteca de conhecimento, desafios de pragas) |
+| 20/06/2024 |  Revisão geral e preparação para a apresentação do projeto                             |
+
+
 
 
 
