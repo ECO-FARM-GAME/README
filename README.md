@@ -46,9 +46,14 @@ O Projeto ECO FARM tem como objetivo oferecer uma experiência de aprendizado di
 
 ## Cronograma
 
-| Data       | Atividade                             |
-|------------|---------------------------------------|
-| 12/03/2024 | Git: Projeto com Escopo e Cronograma  |
+| Data       | Atividade                                             |
+|------------|-------------------------------------------------------|
+| 12/03/2024 | Git: Projeto com Escopo e Cronograma                  | 
+| 15/03/2024 | Inicio Do Desenvolvimento                             |
+| 20/03/2024 | Inicio dos testes dos Assets                          |
+| 01/04/2024 | Planejamento detalhado do projeto e definição de metas|
+|||
+
 
 
 ## Nova SoftSkills
