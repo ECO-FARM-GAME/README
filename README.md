@@ -23,7 +23,7 @@ O Projeto ECO FARM tem como objetivo oferecer uma experiência de aprendizado di
 
 ## Equipe
 
-<img src="https://avatars.githubusercontent.com/u/102824980?v=4" height="35px"> [Cristhian Cesar Gabriel]((https://github.com/AlekiBr)) - Scrum Master
+<img src="https://avatars.githubusercontent.com/u/102824980?v=4" height="35px"> [Cristhian Cesar Gabriel](https://github.com/AlekiBr) - Scrum Master
 
 <img src="https://avatars.githubusercontent.com/u/101526076?v=4" height="35px"> [Gabriel Passi Sanches](https://github.com/passisanches) - Product Owner
 
