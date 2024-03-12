@@ -16,11 +16,8 @@ O Projeto ECO FARM tem como objetivo oferecer uma experiência de aprendizado di
 <div>
   <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png" height="35px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="35px">
- 
-  <img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_sx24z8ZoHaJRps-FSfdRsRYkG03r-1lqDVVPL1HDw&s)" height="35px">
-
-  <img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)" height="35px">
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_sx24z8ZoHaJRps-FSfdRsRYkG03r-1lqDVVPL1HDw&s" height="35px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="35px">
 </div>
 
 
