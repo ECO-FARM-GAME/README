@@ -68,12 +68,12 @@ O Projeto ECO FARM tem como objetivo oferecer uma experiência de aprendizado di
 
 | Nome      | Flexibilidade | Trabalho em Equipe | Comunicação | Liderança | Autonomia | Relacionamento Interpessoal | Motivação |
 |-----------|---------------|--------------------|-------------|-----------|-----------|-----------------------------|-----------|
-| Cristhian | -             | -                  | -           | -         | -         | -                           | -         |
-| Gabriel   | -             | -                  | -           | -         | -         | -                           | -         |
+| Cristhian | 5             | 5                  | 5           | 5         | 5         | 5                           | 5         |
+| Gabriel   | 5             | 5                  | 5           | 5         | 5         | 5                           | 5         |
 
 ### Nova HardSkills
 
 | Nome      | Unity | C #     | C + +   | Vs Code   |
 |-----------|-------|---------|---------|-----------|
-| Cristhian | -     | -       | -       | -         | 
-| Gabriel   | -     | -       | -       | -         | 
+| Cristhian | 4     | 4       | 4       | 5         | 
+| Gabriel   | 4     | 4       | 4       | 5         | 
