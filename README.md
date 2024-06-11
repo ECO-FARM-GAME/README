@@ -57,8 +57,8 @@ O Projeto ECO FARM tem como objetivo oferecer uma experiência de aprendizado di
 | 15/05/2024 | Desenvolvimento dos sistemas de jogabilidade (plantio, análise de solo, etc.)          |
 | 01/06/2024 | Criação dos primeiros mapas e ambientes do jogo                                        |
 | 10/06/2024 | Testes iniciais de mecânicas e correção de bugs                                        |
-| 15/06/2024 |  Implementação de recursos educativos (biblioteca de conhecimento, desafios de pragas) |
-| 20/06/2024 |  Revisão geral e preparação para a apresentação do projeto                             |
+| 10/06/2024 |  Implementação de recursos educativos (biblioteca de conhecimento, desafios de pragas) |
+| 10/06/2024 |  Revisão geral e preparação para a apresentação do projeto                             |
 
 
 
